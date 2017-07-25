@@ -1,0 +1,11 @@
+C:\code\SynHelper\SynHelper\bin\Debug\SynHelper.exe
+C:\code\SynHelper\SynHelper\bin\Debug\SynHelper.pdb
+C:\code\SynHelper\SynHelper\obj\Debug\SynHelper.Properties.Resources.resources
+C:\code\SynHelper\SynHelper\obj\Debug\SynHelper.csproj.GenerateResource.Cache
+C:\code\SynHelper\SynHelper\obj\Debug\SynHelper.exe
+C:\code\SynHelper\SynHelper\obj\Debug\SynHelper.pdb
+C:\code\SynHelper\SynHelper\bin\Debug\DevComponents.DotNetBar2.dll
+C:\code\SynHelper\SynHelper\bin\Debug\DevComponents.DotNetBar2.xml
+C:\code\SynHelper\SynHelper\bin\Debug\Newtonsoft.Json.dll
+C:\code\SynHelper\SynHelper\obj\Debug\SynHelper.csprojResolveAssemblyReference.cache
+C:\code\SynHelper\SynHelper\obj\Debug\SynHelper.frmSyn.resources
